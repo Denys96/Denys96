@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en [BlogdeCafe](blog-cafedenys.netlify.app)
 
-- 🌱 Me encanta seguir aprendiendo **Estoy en un cursando un Bootcamp de Full Stack Jr**
+- 🌱 Me encanta seguir aprendiendo **Estoy cursando un Bootcamp de Full Stack Jr**
 
 - 👯 Otro pequeño proyecto [Tienda Virtual](tienda-proyecto-2.netlify.app)
 
