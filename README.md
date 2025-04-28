@@ -1,4 +1,5 @@
-<h1 align="center">Hola 👋, mi nombre es Denys Hernandez</h1>
+<h1 align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l0ZGNlanhsYW50MjlsemU2dHg2YjlheWR2cWZsNWtvaGFybmF6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8rWn07iZuipP4IU5k6/giphy.gif" width="35"> <b>Hola! Bienvenidos a mi perfil de GitHub</b> <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l0ZGNlanhsYW50MjlsemU2dHg2YjlheWR2cWZsNWtvaGFybmF6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8rWn07iZuipP4IU5k6/giphy.gif' width="100px"> </h1>
+
 <h3 align="center">Soy un apasionado por la tecnologia estoy como pasante de QA y me encanta tambien el desarrollo Front End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denys96&label=Profile%20views&color=0e75b6&style=flat" alt="denys96" /> </p>
