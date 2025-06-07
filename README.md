@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denys96&label=Profile%20views&color=0e75b6&style=flat" alt="denys96" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [BlogdeCafe](blog-cafedenys.netlify.app)
+- 🔭 Actualmente estoy trabajando en [Quiz de preguntas](https://actividad-quizz-js.vercel.app/)
 
 - 🌱 Me encanta seguir aprendiendo **Estoy cursando un Bootcamp de Full Stack Jr**
 
-- 👯 Otro pequeño proyecto [Tienda Virtual](tienda-proyecto-2.netlify.app)
+- 👯 Otro pequeño proyecto [Tienda Virtual](https://landing-pages-fsj28.netlify.app/)
 
-- 🤝 Dando mis primeros pasos [freelancer](freelancer-codigodenys.netlify.app)
+- 🤝 Dando mis primeros pasos [BlogdeCafe](blog-cafedenys.netlify.app)
 
 - 📫 Mi Contatcto **denisalexaner_96@hotmail.com**
 <hr>
